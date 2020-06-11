@@ -1,0 +1,2 @@
+To install project please copy and paste iwa_2018_vz_projekt_kreiranje.sql file to your database management system, preferably phpMyAdmin,
+as new query. This will create a database for our application and application will be ready to be seen on your local server.
