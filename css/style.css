@@ -1,0 +1,134 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.traka {
+    height: 125px;
+    width:100%;
+    background-color: rgba(55, 89, 129, 0.849) !important;
+}
+
+.naslov {
+    font-size: 18px;
+    color: #ddbdb180;
+    text-decoration: none;
+}
+
+.traka .opa li {
+    display: inline;
+    padding-right: 15px;
+}
+
+.opa a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.opa .odjavise {
+    color:red;
+}
+
+
+#main {
+    margin-top: 30px;
+    margin-left: 1rem;
+    clear: both;
+}
+
+.slika {
+    height:70px;
+    width:70px;
+}
+
+#red:hover { 
+    cursor: pointer;
+    background: lightgrey; 
+ }
+
+
+.tip {
+     cursor: pointer;
+     padding-right: 10px;
+     border: 2px solid;
+     text-align: center;
+     font-size: 20px; 
+ }
+
+.tip:hover {
+    background-color: green;
+}
+
+.rez1 {
+    height: 30px;
+    width: 25px;
+    border: 1px solid black;
+}
+
+.rez2 {
+    height: 30px;
+    width: 25px;
+    border: 1px solid black;
+}
+
+
+video {
+    height: 80px;
+    width:100px;
+}
+
+.container select {
+    width:170px;
+}
+
+.tablica {
+    border-collapse: collapse;
+    min-width: 400px;
+    margin: 25px 0;
+}
+
+.tablica thead {
+    background-color: rgba(139, 180, 228, 0.849);
+
+}
+
+ .tablica th, .tablica td {
+    padding: 12px 15px;
+    border-left:  1px solid #dddddd;
+}
+
+.tablica tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.sadrzaj{
+	float: right;
+	width: 75%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.naslov2 {
+	font-size: 45px;
+	text-align: center;
+	font-style: italic;
+}
+
+.pozadina {
+	background-color: #dddddd;
+}
+
+.zaglavlje{
+	background-color: #a0a0a0;
+}
+
+.slikaiva{
+	border: 2px solid black;
+    border-radius: 40px;
+    float: left;
+}
+
+.div_tablica {
+    padding: 30px;
+    overflow: hidden;
+}
